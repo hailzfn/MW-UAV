@@ -1,0 +1,10 @@
+C:\Users\devku\source\repos\WZ UAV\bin\Release\WZ UAV.exe.config
+C:\Users\devku\source\repos\WZ UAV\bin\Release\WZ UAV.exe
+C:\Users\devku\source\repos\WZ UAV\bin\Release\WZ UAV.pdb
+C:\Users\devku\source\repos\WZ UAV\obj\Release\WZ UAV.csproj.AssemblyReference.cache
+C:\Users\devku\source\repos\WZ UAV\obj\Release\UAV_tool.Form1.resources
+C:\Users\devku\source\repos\WZ UAV\obj\Release\WZ_UAV.Properties.Resources.resources
+C:\Users\devku\source\repos\WZ UAV\obj\Release\WZ UAV.csproj.GenerateResource.cache
+C:\Users\devku\source\repos\WZ UAV\obj\Release\WZ UAV.csproj.CoreCompileInputs.cache
+C:\Users\devku\source\repos\WZ UAV\obj\Release\WZ UAV.exe
+C:\Users\devku\source\repos\WZ UAV\obj\Release\WZ UAV.pdb

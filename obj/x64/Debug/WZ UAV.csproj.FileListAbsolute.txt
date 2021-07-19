@@ -1,0 +1,9 @@
+C:\Users\devku\source\repos\WZ UAV\bin\x64\Debug\WZ UAV.exe.config
+C:\Users\devku\source\repos\WZ UAV\bin\x64\Debug\WZ UAV.exe
+C:\Users\devku\source\repos\WZ UAV\bin\x64\Debug\WZ UAV.pdb
+C:\Users\devku\source\repos\WZ UAV\obj\x64\Debug\UAV_tool.Form1.resources
+C:\Users\devku\source\repos\WZ UAV\obj\x64\Debug\WZ_UAV.Properties.Resources.resources
+C:\Users\devku\source\repos\WZ UAV\obj\x64\Debug\WZ UAV.csproj.GenerateResource.cache
+C:\Users\devku\source\repos\WZ UAV\obj\x64\Debug\WZ UAV.csproj.CoreCompileInputs.cache
+C:\Users\devku\source\repos\WZ UAV\obj\x64\Debug\WZ UAV.exe
+C:\Users\devku\source\repos\WZ UAV\obj\x64\Debug\WZ UAV.pdb
